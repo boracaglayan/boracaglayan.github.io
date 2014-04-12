@@ -13,4 +13,4 @@ My online presence:
  * [Lastfm](http://www.last.fm/user/boracaglayan)
  * [Github](http://github.com/boracaglayan)
 
-Trivia about the domain name: I bought this domain 10+ years ago. The meaning of tarla is *farm field* in turkish. It was one of the few available turkish words with less than 6 letters at that time.
+Trivia about the domain name: I bought this domain 10+ years ago. The meaning of tarla is *arable field* in Turkish. It was one of the few available turkish words with less than 6 letters at that time.
