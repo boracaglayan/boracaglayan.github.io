@@ -3,26 +3,14 @@ layout: default
 title: Bora Caglayan
 ---
 
-Test
--------
+I work as a post doctorate research associate in [Ryerson University Department of Mathematics](http://www.math.ryerson.ca/).
+I am a member of [Data Science Laboratory (DSL)](http://www.ryerson.ca/~abener/dsl.html).
+My research area is empirical software engineering and recommender systems.
 
-**Journals** 
+*****
 
- 1. f
- 2. f
-
-**Book Chapters**
-
- 1. List item
-
-**Conference Proceedings and Workshops**
-
- 1. List item
-
-**National Conference Papers**
-
- 1. List item
-
-**Other**
-
- 1. List item
+Education
+----
+ * BS: Bogazici University [Mechanical Engineering](http://www.me.boun.edu.tr) 2006
+ * MS: Bogazici University [Software Engineering](http://www.cmpe.boun.edu.tr) 2008
+ * PhD: Bogazici University [Software Engineering](http://www.cmpe.boun.edu.tr) 2013

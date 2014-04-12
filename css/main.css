@@ -14,20 +14,20 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
+  font-family: "Helvetica Neue", Helvetica;
+  font-size: medium;
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+  font-size: 120%; }
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
+a         { color: #061F70; }
 a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a:visited { color: #2C4081; }
 
 /*****************************************************************************/
 /*
@@ -41,6 +41,7 @@ a:visited { color: #a0a; }
 
 .posts li {
   line-height: 1.75em;
+  font-size: 80%;
 }
 
 .posts span {
@@ -135,6 +136,7 @@ a:visited { color: #a0a; }
 }
 
 .post ul, .post ol {
+  font-size: 80%;
   margin-left: 1.35em;
 }
 
