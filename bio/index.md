@@ -13,4 +13,4 @@ Education
 ----
  * BS: Bogazici University [Mechanical Engineering](http://www.me.boun.edu.tr) 2006
  * MS: Bogazici University [Software Engineering](http://www.cmpe.boun.edu.tr) 2008
- * PhD: Bogazici University [Software Engineering](http://www.cmpe.boun.edu.tr) 2013
+ * PhD: Bogazici University [Computer Engineering](http://www.cmpe.boun.edu.tr) 2013
