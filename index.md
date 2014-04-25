@@ -3,7 +3,7 @@ layout: default
 title: Bora Caglayan
 ---
 
-Welcome to my personal page. [Twitter](http://twitter.com/caglayan),
+Welcome to my personal page: [Twitter](http://twitter.com/caglayan),
 [Goodreads](ttp://www.goodreads.com/user/show/631324-bora/),
 [LinkedIn](http://www.linkedin.com/profile/view?id=3051621),
 [Lastfm](http://www.last.fm/user/boracaglayan),
