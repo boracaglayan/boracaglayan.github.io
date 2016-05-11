@@ -3,9 +3,7 @@ layout: default
 title: Bora Caglayan
 ---
 
-I work as a post doctorate research associate in [Ryerson University Department of Mathematics](http://www.math.ryerson.ca/).
-I am a member of [Data Science Laboratory (DSL)](http://www.ryerson.ca/~abener/dsl.html).
-My research area is empirical software engineering and recommender systems.
+I work as a post doctorate researcher in [LERO](http://www.lero.ie/) in Limerick, Ireland.
 
 *****
 
