@@ -19,6 +19,7 @@ title: Bora Caglayan
 
 
 **Conference Proceedings and Workshops**
+
  1. S. Akbarinasaji,Soltanifar,B., Çağlayan, B., Bener, A., Kurtoğlu, A.F., Tosun, A., Miransky, A., and Kramer, B., "A Metric Suite Proposal for Logical Dependency," Wetsom, ICSE 2016, May 14-25, 2016, Austin, TX, USA.
  2. B. Soltanifar, Habayeb, M., Caglayan, B., and A. Başar Bener, "A novel point of interest (POI) location based recommender system utilizing user location and web interactions," IEEE BigDataService 2016, March 29-April 1, 2016, Oxford, UK.
  3. B. Caglayan, B. Turhan, A.B. Bener, M. Habayeb, A. Miranskyy, and E. Cialini, "Merits of Organizational Metrics in Defect Prediction: An Industrial Application", ICSE SEIP 2015, May 16-24, 2015, Florance, Italy.
