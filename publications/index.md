@@ -3,10 +3,13 @@ layout: default
 title: Bora Caglayan
 ---
 
+[Google Scholar](https://scholar.google.com/citations?user=ANZg0hsAAAAJ&hl=en)
+
 **Journals** 
 
- 1. B. Caglayan, Misirli, A. T., Bener, A., and Miranskyy, A., "Predicting Defective Modules in Different Test Phases", Software Quality Journal, (in print)
- 2. A. T. Misirli, B. Caglayan, A. Bener, and B. Turhan “A Retrospective Study of Software Analytics Projects: In-Depth Interviews with Practitioners”. IEEE Software, September/ October, 2013.
+ 1. B. Caglayan,  A. Bener,“Effect of Developer Collaboration Activity on Software Quality In Two Large Scale Projects”. Journal of Systems and Software, 2016, in print.
+ 2. B. Caglayan, Misirli, A. T., Bener, A., and Miranskyy, A., "Predicting Defective Modules in Different Test Phases", Software Quality Journal, Volume 23, Issue 2, pp 205-227, June 2015
+ 3. A. T. Misirli, B. Caglayan, A. Bener, and B. Turhan “A Retrospective Study of Software Analytics Projects: In-Depth Interviews with Practitioners”. IEEE Software, September/ October, 2013.
   
 
 **Book Chapters**
@@ -14,7 +17,8 @@ title: Bora Caglayan
  3. A. T. Misirli, A. Bener, B. Caglayan, G. Calikli, B. Turhan, “Field Studies: A Methodology for Construction and Evaluation of Recommendation Systems in Software Engineering”,“Recommendation Systems in Software Engineering”, W. Maalej, M. Robillard, R. Walker, T. Zimmermann (eds.), Springer 2014.
 
 **Conference Proceedings and Workshops**
- 
+ 0. S. Akbarinasaji,Soltanifar,B., Çağlayan, B., Bener, A., Kurtoğlu, A.F., Tosun, A., Miransky, A., and Kramer, B., "A Metric Suite Proposal for Logical Dependency," Wetsom, ICSE 2016, May 14-25, 2016, Austin, TX, USA.
+ 0. B. Soltanifar, Habayeb, M., Caglayan, B., and A. Başar Bener, "A novel point of interest (POI) location based recommender system utilizing user location and web interactions," IEEE BigDataService 2016, March 29-April 1, 2016, Oxford, UK.
  1. B. Caglayan, B. Turhan, A.B. Bener, M. Habayeb, A. Miranskyy, and E. Cialini, "Merits of Organizational Metrics in Defect Prediction: An Industrial Application", ICSE SEIP 2015, May 16-24, 2015, Florance, Italy.
  2. B. Soltanifar, S. Akbarinasaji, B. Çağlayan, A. Bener, A. Misirli and A. Filiz, “An AI Application in Industry: Building a Defect Prediction Model Using Logical Dependencies”, ICSE RAISE 2015, May 16-24, 2015, Florance, Italy.
  3. P. Lak, B. Caglayan, and A.B. Bener,"The Impact of Basic Matrix Factorization Refinements on Recommendation Accuracy", International Symposium on Big Data Computing (BDC2014), December 8-11, 2014, London, UK.
@@ -36,7 +40,7 @@ title: Bora Caglayan
  
 **National Conference Papers**
 
- 1. . Kocaguneli, A.Tosun, B. Caglayan, A. Bener, B. Turhan, and ,"Bulutlarda Akilli Bir Yazilim Olcumleme, Hata Analiz ve Tahmin Araci: Prest", IV. Ulusal Yazilim Muhendisligi Sempozyumu, 2009, Istanbul
+ 1. . Kocaguneli, A.Tosun, B. Caglayan, A. Bener, B. Turhan, and ,"Bulutlarda Akilli Bir Yazilim Olcumleme, Hata Analiz ve Tahmin Araci: Prest", IV. Ulusal Yazilim Muhendisligi Sempozyumu, 2009, Istanbul
 
 **Other**
 
