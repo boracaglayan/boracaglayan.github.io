@@ -4,7 +4,7 @@ title: Bora Caglayan
 ---
 
 [Google Scholar](https://scholar.google.com/citations?user=ANZg0hsAAAAJ&hl=en)
-<!---
+<!--
 **Journals** 
 //
  1. B. Caglayan,  A. Bener,“Effect of Developer Collaboration Activity on Software Quality In Two Large Scale Projects”. Journal of Systems and Software, 2016, in print.
@@ -49,4 +49,4 @@ title: Bora Caglayan
 //
  1. Tim Menzies, B. Caglayan, E. Kocaguneli, J. Krall, F. Peters, and B. Turhan, "The PROMISE Repository of empirical software engineering data", 2012
  2. B. Çağlayan, A. Bener, O. Tosun, “Usage of Alternative Models of Software Systems In Defect Prediction”, Technical Report, FBE(CMPE-04)2009-1, Boğaziçi University, November 2009
---->
+-->
