@@ -6,20 +6,20 @@ title: Bora Caglayan
 [Google Scholar](https://scholar.google.com/citations?user=ANZg0hsAAAAJ&hl=en)
 <!---
 **Journals** 
-
+//
  1. B. Caglayan,  A. Bener,“Effect of Developer Collaboration Activity on Software Quality In Two Large Scale Projects”. Journal of Systems and Software, 2016, in print.
  2. B. Caglayan, Misirli, A. T., Bener, A., and Miranskyy, A., "Predicting Defective Modules in Different Test Phases", Software Quality Journal, Volume 23, Issue 2, pp 205-227, June 2015
  3. A. T. Misirli, B. Caglayan, A. Bener, and B. Turhan “A Retrospective Study of Software Analytics Projects: In-Depth Interviews with Practitioners”. IEEE Software, September/ October, 2013.
-  
-
+//  
+//
 **Book Chapters**
-
+//
  1. A. Bener, A.T. Misirli, B. Caglayan, E. Kocaguneli, G. Calikli, Lessons Learned from Software Analytics in Practice, in The Art and Science of Analyzing Software Data, Tim Menzies, Christian Bird, and Tom Zimmerman (eds.), Morgan Kaufmann 2015.
  2. A. T. Misirli, A. Bener, B. Caglayan, G. Calikli, B. Turhan, “Field Studies: A Methodology for Construction and Evaluation of Recommendation Systems in Software Engineering”,“Recommendation Systems in Software Engineering”, W. Maalej, M. Robillard, R. Walker, T. Zimmermann (eds.), Springer 2014.
-
-
+//
+//
 **Conference Proceedings and Workshops**
-
+//
  1. S. Akbarinasaji,Soltanifar,B., Çağlayan, B., Bener, A., Kurtoğlu, A.F., Tosun, A., Miransky, A., and Kramer, B., "A Metric Suite Proposal for Logical Dependency," Wetsom, ICSE 2016, May 14-25, 2016, Austin, TX, USA.
  2. B. Soltanifar, Habayeb, M., Caglayan, B., and A. Başar Bener, "A novel point of interest (POI) location based recommender system utilizing user location and web interactions," IEEE BigDataService 2016, March 29-April 1, 2016, Oxford, UK.
  3. B. Caglayan, B. Turhan, A.B. Bener, M. Habayeb, A. Miranskyy, and E. Cialini, "Merits of Organizational Metrics in Defect Prediction: An Industrial Application", ICSE SEIP 2015, May 16-24, 2015, Florance, Italy.
@@ -40,13 +40,13 @@ title: Bora Caglayan
  18. S. Alhassan, B. Çağlayan, A. Bener, “Do More People Make the Code More Defect Prone?: Social Network Analysis in OSS Projects”, SEKE 2010, San Francisco, CA, USA, 2010
  19. E. Kocagüneli, A.Tosun, A. Bener, B. Çağlayan, B. Turhan, “Prest: An Intelligent Software Metrics Extraction, Analysis and Defect Prediction Tool”, in Proceedings of the 21st International Conference on Software Engineering and Knowledge Engineering (SEKE), 2009, Boston, USA.
  20. B. Caglayan, A. Bener, S. Koch, “Merits of Using Repository Metrics in Defect Prediction”, Emerging Trends in FLOSS Research and Development, International Workshop on, 2009, Vancouver, Canada
- 
+// 
 **National Conference Papers**
-
+//
  1. . Kocaguneli, A.Tosun, B. Caglayan, A. Bener, B. Turhan, and ,"Bulutlarda Akilli Bir Yazilim Olcumleme, Hata Analiz ve Tahmin Araci: Prest", IV. Ulusal Yazilim Muhendisligi Sempozyumu, 2009, Istanbul
-
+//
 **Other**
-
+//
  1. Tim Menzies, B. Caglayan, E. Kocaguneli, J. Krall, F. Peters, and B. Turhan, "The PROMISE Repository of empirical software engineering data", 2012
  2. B. Çağlayan, A. Bener, O. Tosun, “Usage of Alternative Models of Software Systems In Defect Prediction”, Technical Report, FBE(CMPE-04)2009-1, Boğaziçi University, November 2009
 --->
