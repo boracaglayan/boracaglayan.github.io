@@ -3,7 +3,7 @@ layout: default
 title: Bora Caglayan
 ---
 
-I work as a post doctorate researcher in [LERO](http://www.lero.ie/) in Limerick, Ireland.
+I work as a AIops principal research engineer for Huawei Ireland Research Centre in Dublin, Ireland.
 
 *****
 
